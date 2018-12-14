@@ -1,12 +1,12 @@
 # Algoritmos 3VA
 Algoritmos compondo a lista
-***Representações gráficas dos grafos estão disponíveis na pasta "representações"***
+-***Representações gráficas dos grafos estão disponíveis na pasta "representações"***
 
 **Requisitos**
 >- Python 3.x (3.6 recomendada) : [Python](https://www.python.org/downloads/)
 
 **Rodando o programa**
-***Arquivo grafos.py é necessário, pois contém os grafos para os demais programas*** 
+-***Arquivo grafos.py é necessário, pois contém os grafos para os demais programas*** 
 - cd meu_diretorio
   - python largura.py
   - python profundidade.py
